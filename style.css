@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+    font-family: Azeret Mono;
+}
 /* header section */
 .starting{
     display: flex;
@@ -27,4 +30,15 @@
 :hover.btn-primary{
     color:black;
     background: greenyellow;
+}
+/* banner section */
+.banner{
+    background-image: url(/assets/Hero-bg.png);
+    position: absolute;
+    width:100%;
+    height: 600px;
+    text-align: center;
+}
+.dev-img{
+    margin-top: 40px;
 }
