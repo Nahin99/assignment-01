@@ -84,6 +84,7 @@
 .current-skills{
   display: flex;
   margin-top: 70px;
+  margin-bottom: 50px;
   padding-right: 25px;
   padding-left: 25px;
 }
@@ -91,6 +92,7 @@
     text-align: start;
     border-radius: 16px;
     padding-left: 10px;
+    margin-right: 20px;
 
 }
 .html{
@@ -101,4 +103,30 @@ background: rgba(0, 76, 232, 0.05);
 }
 .js{
 background: rgba(255, 223, 0, 0.05);
+}
+/* next section */
+.next-section{
+    margin-top: 60px;
+    margin-left: 35px;
+}
+.next-des{
+    text-align: center;
+    margin-bottom: 60px;
+}
+.react{
+    display: flex;
+    justify-content:baseline;
+    margin-bottom: 50px;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+
+}
+.react-img{
+    margin-right: 30px;
+    padding: 20px 30px 20px 20px;
+}
+.react-dtls{
+    padding: 20px 30px 20px 0px;
 }
