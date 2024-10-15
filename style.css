@@ -33,7 +33,7 @@
 }
 /* banner section */
 .banner{
-    background-image: url(/assets/Hero-bg.png);
+    background-image: url(../assets/Hero-bg.png);
     width:100%;
     height: 600px;
     text-align: center;
@@ -134,7 +134,7 @@ background: rgba(255, 223, 0, 0.05);
 .last-section{
     width: 100%;
     height: 600px;
-    background-image: url(/assets/handshake.jpg);
+    background-image: url(../assets/handshake.jpg);
     border-radius: 16px;
     background: rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2);
     background-repeat: no-repeat;
